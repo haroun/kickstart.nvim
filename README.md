@@ -274,5 +274,3 @@ sudo apt install -t unstable neovim
 sudo dnf install -y gcc make git ripgrep fd-find neovim
 ```
 </details>
-
-

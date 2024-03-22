@@ -187,6 +187,7 @@ return {
           },
         },
       },
+      markdownlint = {},
       ['node-debug2-adapter'] = {},
       prettier = {},
       rust_analyzer = {},
