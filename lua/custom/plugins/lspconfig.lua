@@ -189,7 +189,9 @@ return {
       },
       markdownlint = {},
       ['node-debug2-adapter'] = {},
-      prettier = {},
+      -- prettier = {
+      --   cmd = { 'prettier --single-quote' },
+      -- },
       rust_analyzer = {},
       stylelint = {},
       stylelint_lsp = {
@@ -197,7 +199,7 @@ return {
       },
       stylua = {},
       svelte = {},
-      tailwindcss = {},
+      -- tailwindcss = {},
       tsserver = {},
       vimls = {},
       volar = {},
